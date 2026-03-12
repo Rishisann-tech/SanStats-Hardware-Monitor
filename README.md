@@ -29,3 +29,31 @@ Forget typing commands every time! SanStats is designed to be a "Plug & Play" ex
 1. Install **Python 3** and required libraries via Command Prompt:
    ```bash
    pip install psutil GPUtil
+2. Download the PC-Server folder from this repository.
+
+Make sure you have ADB installed on your PC, 
+
+important_____
+(update the exact ADB path inside the Auto_ADB.bat file.)
+
+3. Automate the Startup:
+
+* Press Win + R, type shell:startup, and hit Enter.
+* Paste the SanStats_Server.vbs file into this Startup folder. (This ensures the Python server and ADB listener run silently in the background every time you turn on your PC).
+
+### 2. Android Setup
+Build the Android project using Code Assist or Android Studio, or download the latest APK from the Releases tab.
+
+Install SanStats.apk on your device from the release section.
+
+Enable USB Debugging in your phone's Developer Options.
+
+### 3. The Magic (Plug & Play) 🪄
+Turn on your PC (The background scripts will start automatically).
+
+Connect your Android phone via USB cable.
+
+Open the SanStats app. The scripts will automatically detect your phone, forward the ports, and your meters will instantly go live after the ignition sweep!
+
+👨‍💻 Developer
+Made with ❤️ by Rishi Sann
