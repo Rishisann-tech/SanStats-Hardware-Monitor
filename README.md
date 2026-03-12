@@ -46,7 +46,7 @@ now, paste the .bat file and .py file in this folder
 * Paste the SanStats_Server.vbs file into this Startup folder. (This ensures the Python server and ADB listener run silently in the background every time you turn on your PC).
 
 ### 2. Android Setup
-Build the Android project using Code Assist or Android Studio, or download the latest APK from the Releases tab.
+Download the latest APK from the Releases tab.
 
 Install SanStats.apk on your device from the release section.
 
