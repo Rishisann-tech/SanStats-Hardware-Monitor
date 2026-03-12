@@ -21,6 +21,10 @@ Developed using **Python** (Server-side) and **Java/Android** (Client-side).
 *(Note: Replace preview.jpg with your uploaded image name)*
 ![SanStats UI](preview.jpg)
 
+## Requirement
+
+Use android phone above android 6.0.0 
+
 ## ⚙️ How to Setup (Fully Automated Mode)
 
 Forget typing commands every time! SanStats is designed to be a "Plug & Play" experience.
