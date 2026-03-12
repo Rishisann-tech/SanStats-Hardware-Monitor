@@ -18,7 +18,7 @@ Developed using **Python** (Server-side) and **Java/Android** (Client-side).
 * **Automation:** Windows VBScript & Batch Scripting, ADB (Android Debug Bridge)
 
 ## 📸 Preview
-*(Note: Replace preview.jpg with your uploaded image name)*
+
 ![image alt](https://github.com/Rishisann-tech/SanStats-Hardware-Monitor/blob/baf7463102227768ed2eeadca73734c431637a84/PXL_20260312_165326944.jpg)
 
 ## Requirement
@@ -37,8 +37,7 @@ Forget typing commands every time! SanStats is designed to be a "Plug & Play" ex
 
 Make sure you have ADB installed on your PC, 
 
-important_____
-(update the exact ADB path inside the Auto_ADB.bat file.)
+*(update the exact ADB path inside the Auto_ADB.bat file.)*
 
 3. now make a folder (default folder name in .bat file is- "New folder") 
 
