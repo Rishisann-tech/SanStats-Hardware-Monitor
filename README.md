@@ -29,14 +29,18 @@ Forget typing commands every time! SanStats is designed to be a "Plug & Play" ex
 1. Install **Python 3** and required libraries via Command Prompt:
    ```bash
    pip install psutil GPUtil
-2. Download the PC-Server folder from this repository.
+2. Download all files frrom the release sections
 
 Make sure you have ADB installed on your PC, 
 
 important_____
 (update the exact ADB path inside the Auto_ADB.bat file.)
 
-3. Automate the Startup:
+3. now make a folder (default folder name in .bat file is- "New folder") 
+
+now, paste the .bat file and .py file in this folder 
+
+4. Automate the Startup:
 
 * Press Win + R, type shell:startup, and hit Enter.
 * Paste the SanStats_Server.vbs file into this Startup folder. (This ensures the Python server and ADB listener run silently in the background every time you turn on your PC).
