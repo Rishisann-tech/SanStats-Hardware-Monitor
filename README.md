@@ -23,7 +23,7 @@ Developed using **Python** (Server-side) and **Java/Android** (Client-side).
 
 ## Requirement
 
-Use android phone above android 6.0.0 
+Android 6.0.0+ (phone)
 
 ## ⚙️ How to Setup (Fully Automated Mode)
 
