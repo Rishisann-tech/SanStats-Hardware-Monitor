@@ -57,7 +57,9 @@ Open the SanStats app. The scripts will automatically detect your phone, forward
 
 ## info!!/Not Working?
 If not working try to change the path in .bat file and .vbs file from deafult to your own 
+
 Note- this thing is little tough to use for beginners, so do it with lots of patience plzz 
+
 it's 100% working 
 
 ## 👨‍💻 Developer
