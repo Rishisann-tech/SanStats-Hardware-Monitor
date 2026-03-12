@@ -19,7 +19,7 @@ Developed using **Python** (Server-side) and **Java/Android** (Client-side).
 
 ## 📸 Preview
 *(Note: Replace preview.jpg with your uploaded image name)*
-![SanStats UI](preview.jpg)
+![image alt](https://github.com/Rishisann-tech/SanStats-Hardware-Monitor/blob/baf7463102227768ed2eeadca73734c431637a84/PXL_20260312_165326944.jpg)
 
 ## Requirement
 
